@@ -1,8 +1,5 @@
-# Ignora todos os arquivos dentro de "data" e seus subdiretórios
-data/**
+# Ignora todos os arquivos .csv dentro de "data" e seus subdiretórios
+data/**/*.csv
 
-# Exceto pelo diretório headers
-!data/raw/headers/**
-
-# Mas ainda queremos incluir a estrutura de diretórios (mantendo os subdiretórios)
+# Garante que a estrutura dos diretórios seja incluída no commit
 !data/**/
