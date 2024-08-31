@@ -1,0 +1,8 @@
+# Ignora todos os arquivos dentro de "data" e seus subdiretórios
+data/**
+
+# Exceto pelo diretório headers
+!data/raw/headers/**
+
+# Mas ainda queremos incluir a estrutura de diretórios (mantendo os subdiretórios)
+!data/**/
