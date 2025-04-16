@@ -1,0 +1,20 @@
+[project]
+name = "network-analysis-lattes"
+version = "0.1.0"
+description = "Testes lattes"
+readme = "README.md"
+requires-python = "==3.12.7"
+dependencies = [
+    "pandas",
+    "Unidecode",
+    "networkx",
+    "matplotlib",
+    "scipy",
+    "tqdm",
+    "ipykernel",
+    "requests",
+    "geopy",
+    "seaborn",
+    "basemap"
+]
+

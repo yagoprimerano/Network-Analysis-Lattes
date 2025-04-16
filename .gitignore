@@ -1,6 +1,7 @@
 # Ignora todos os arquivos .csv dentro de "data" e seus subdiretórios
 data/**/*.csv
 data/**/*.CSV
+.venv/*
 
 # Ignora os diretórios "abrangente", "aplicacoes", "restritivo" e "orientacoes" diretamente sob "raw"
 data/raw/abrangente/

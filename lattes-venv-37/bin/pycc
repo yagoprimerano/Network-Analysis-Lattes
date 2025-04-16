@@ -1,3 +1,0 @@
-#!/home/yagoth/Documents/USP/ARS/Network-Analysis-Lattes/lattes-venv-37/bin/python3.7
-from numba.pycc import main
-main()
