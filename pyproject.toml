@@ -15,6 +15,7 @@ dependencies = [
     "requests",
     "geopy",
     "seaborn",
-    "basemap"
+    "basemap",
+    "wordcloud>=1.9.4",
 ]
 
