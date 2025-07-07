@@ -1,0 +1,1032 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2025-05-12">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="LattesID_1032225749434466" label="LattesID_1032225749434466" />
+      <node id="LattesID_2340689518921145" label="LattesID_2340689518921145" />
+      <node id="LattesID_7116075671588859" label="LattesID_7116075671588859" />
+      <node id="LattesID_7902863199631787" label="LattesID_7902863199631787" />
+      <node id="LattesID_1069795934274923" label="LattesID_1069795934274923" />
+      <node id="LattesID_7945266734797620" label="LattesID_7945266734797620" />
+      <node id="LattesID_1074372911061770" label="LattesID_1074372911061770" />
+      <node id="LattesID_1325247019367288" label="LattesID_1325247019367288" />
+      <node id="LattesID_3916683240962357" label="LattesID_3916683240962357" />
+      <node id="LattesID_6489257938942420" label="LattesID_6489257938942420" />
+      <node id="LattesID_107727024654188" label="LattesID_107727024654188" />
+      <node id="LattesID_3291500007075755" label="LattesID_3291500007075755" />
+      <node id="LattesID_8634132437501861" label="LattesID_8634132437501861" />
+      <node id="LattesID_1095193209251351" label="LattesID_1095193209251351" />
+      <node id="LattesID_4973731190814126" label="LattesID_4973731190814126" />
+      <node id="LattesID_1097952760431187" label="LattesID_1097952760431187" />
+      <node id="LattesID_4189604454431782" label="LattesID_4189604454431782" />
+      <node id="LattesID_7573837292080522" label="LattesID_7573837292080522" />
+      <node id="LattesID_109879345362476" label="LattesID_109879345362476" />
+      <node id="LattesID_9631745554236280" label="LattesID_9631745554236280" />
+      <node id="LattesID_1100065907067996" label="LattesID_1100065907067996" />
+      <node id="LattesID_5024898338240640" label="LattesID_5024898338240640" />
+      <node id="LattesID_1123376648713853" label="LattesID_1123376648713853" />
+      <node id="LattesID_1744732999336375" label="LattesID_1744732999336375" />
+      <node id="LattesID_2951269593210008" label="LattesID_2951269593210008" />
+      <node id="LattesID_3767009717402045" label="LattesID_3767009717402045" />
+      <node id="LattesID_1130012055294645" label="LattesID_1130012055294645" />
+      <node id="LattesID_6321179168854922" label="LattesID_6321179168854922" />
+      <node id="LattesID_9674541381385819" label="LattesID_9674541381385819" />
+      <node id="LattesID_11303079806761" label="LattesID_11303079806761" />
+      <node id="LattesID_1143985671114403" label="LattesID_1143985671114403" />
+      <node id="LattesID_3925632508523050" label="LattesID_3925632508523050" />
+      <node id="LattesID_1173620785883814" label="LattesID_1173620785883814" />
+      <node id="LattesID_2739279461946618" label="LattesID_2739279461946618" />
+      <node id="LattesID_8514450520201861" label="LattesID_8514450520201861" />
+      <node id="LattesID_1183524198654764" label="LattesID_1183524198654764" />
+      <node id="LattesID_5340049196888351" label="LattesID_5340049196888351" />
+      <node id="LattesID_5400370038397801" label="LattesID_5400370038397801" />
+      <node id="LattesID_1197390306069415" label="LattesID_1197390306069415" />
+      <node id="LattesID_120462063853093" label="LattesID_120462063853093" />
+      <node id="LattesID_1209382022297634" label="LattesID_1209382022297634" />
+      <node id="LattesID_3566465649283245" label="LattesID_3566465649283245" />
+      <node id="LattesID_4946117471548540" label="LattesID_4946117471548540" />
+      <node id="LattesID_1214389619505648" label="LattesID_1214389619505648" />
+      <node id="LattesID_1239530829485063" label="LattesID_1239530829485063" />
+      <node id="LattesID_3884561206562655" label="LattesID_3884561206562655" />
+      <node id="LattesID_1244195230407619" label="LattesID_1244195230407619" />
+      <node id="LattesID_2543299534493653" label="LattesID_2543299534493653" />
+      <node id="LattesID_1279824839196223" label="LattesID_1279824839196223" />
+      <node id="LattesID_4065117731206061" label="LattesID_4065117731206061" />
+      <node id="LattesID_129101355582907" label="LattesID_129101355582907" />
+      <node id="LattesID_1293545009505347" label="LattesID_1293545009505347" />
+      <node id="LattesID_4147899091047166" label="LattesID_4147899091047166" />
+      <node id="LattesID_1311270866082988" label="LattesID_1311270866082988" />
+      <node id="LattesID_1321820478036793" label="LattesID_1321820478036793" />
+      <node id="LattesID_1861914973833506" label="LattesID_1861914973833506" />
+      <node id="LattesID_8934962824316146" label="LattesID_8934962824316146" />
+      <node id="LattesID_1324291141781772" label="LattesID_1324291141781772" />
+      <node id="LattesID_4576414337840820" label="LattesID_4576414337840820" />
+      <node id="LattesID_1392245233631576" label="LattesID_1392245233631576" />
+      <node id="LattesID_4555037539754459" label="LattesID_4555037539754459" />
+      <node id="LattesID_6746193797118427" label="LattesID_6746193797118427" />
+      <node id="LattesID_1396385111251741" label="LattesID_1396385111251741" />
+      <node id="LattesID_5417946704251656" label="LattesID_5417946704251656" />
+      <node id="LattesID_1412248256443525" label="LattesID_1412248256443525" />
+      <node id="LattesID_1422895308009825" label="LattesID_1422895308009825" />
+      <node id="LattesID_1434896097110889" label="LattesID_1434896097110889" />
+      <node id="LattesID_8745326804306646" label="LattesID_8745326804306646" />
+      <node id="LattesID_9528610534584200" label="LattesID_9528610534584200" />
+      <node id="LattesID_146077522102988" label="LattesID_146077522102988" />
+      <node id="LattesID_5217795669575718" label="LattesID_5217795669575718" />
+      <node id="LattesID_1508704515015286" label="LattesID_1508704515015286" />
+      <node id="LattesID_152834093913136" label="LattesID_152834093913136" />
+      <node id="LattesID_5478589107930738" label="LattesID_5478589107930738" />
+      <node id="LattesID_8149101348085972" label="LattesID_8149101348085972" />
+      <node id="LattesID_8487981600635230" label="LattesID_8487981600635230" />
+      <node id="LattesID_1538338871689655" label="LattesID_1538338871689655" />
+      <node id="LattesID_2302314954133011" label="LattesID_2302314954133011" />
+      <node id="LattesID_1541358395524786" label="LattesID_1541358395524786" />
+      <node id="LattesID_1562357566810393" label="LattesID_1562357566810393" />
+      <node id="LattesID_5551697165370587" label="LattesID_5551697165370587" />
+      <node id="LattesID_8800859024101679" label="LattesID_8800859024101679" />
+      <node id="LattesID_159433721761670" label="LattesID_159433721761670" />
+      <node id="LattesID_2938668337725676" label="LattesID_2938668337725676" />
+      <node id="LattesID_1614872930046854" label="LattesID_1614872930046854" />
+      <node id="LattesID_162244851289477" label="LattesID_162244851289477" />
+      <node id="LattesID_4768784008798361" label="LattesID_4768784008798361" />
+      <node id="LattesID_1646871409805700" label="LattesID_1646871409805700" />
+      <node id="LattesID_2879843884282867" label="LattesID_2879843884282867" />
+      <node id="LattesID_1646956319628219" label="LattesID_1646956319628219" />
+      <node id="LattesID_3586142049278272" label="LattesID_3586142049278272" />
+      <node id="LattesID_9600140904712115" label="LattesID_9600140904712115" />
+      <node id="LattesID_1670738049534162" label="LattesID_1670738049534162" />
+      <node id="LattesID_9648618344545667" label="LattesID_9648618344545667" />
+      <node id="LattesID_1675315368809161" label="LattesID_1675315368809161" />
+      <node id="LattesID_174372765974716" label="LattesID_174372765974716" />
+      <node id="LattesID_2608560883389574" label="LattesID_2608560883389574" />
+      <node id="LattesID_1750385790843118" label="LattesID_1750385790843118" />
+      <node id="LattesID_1756895777404187" label="LattesID_1756895777404187" />
+      <node id="LattesID_2741458816539568" label="LattesID_2741458816539568" />
+      <node id="LattesID_1768025290373669" label="LattesID_1768025290373669" />
+      <node id="LattesID_4187392366935703" label="LattesID_4187392366935703" />
+      <node id="LattesID_1805694855931202" label="LattesID_1805694855931202" />
+      <node id="LattesID_1819612551612136" label="LattesID_1819612551612136" />
+      <node id="LattesID_5921185698230768" label="LattesID_5921185698230768" />
+      <node id="LattesID_1819902045004845" label="LattesID_1819902045004845" />
+      <node id="LattesID_3922425256469519" label="LattesID_3922425256469519" />
+      <node id="LattesID_4346810447071054" label="LattesID_4346810447071054" />
+      <node id="LattesID_1829333800490851" label="LattesID_1829333800490851" />
+      <node id="LattesID_2259041691301555" label="LattesID_2259041691301555" />
+      <node id="LattesID_3447520409510736" label="LattesID_3447520409510736" />
+      <node id="LattesID_5008996792274217" label="LattesID_5008996792274217" />
+      <node id="LattesID_5777705137810019" label="LattesID_5777705137810019" />
+      <node id="LattesID_1840336983035010" label="LattesID_1840336983035010" />
+      <node id="LattesID_9039182932747194" label="LattesID_9039182932747194" />
+      <node id="LattesID_1855788987814153" label="LattesID_1855788987814153" />
+      <node id="LattesID_2650005780522066" label="LattesID_2650005780522066" />
+      <node id="LattesID_1869946318928945" label="LattesID_1869946318928945" />
+      <node id="LattesID_189095897739979" label="LattesID_189095897739979" />
+      <node id="LattesID_9912454472927669" label="LattesID_9912454472927669" />
+      <node id="LattesID_1916886621452638" label="LattesID_1916886621452638" />
+      <node id="LattesID_3185627819021012" label="LattesID_3185627819021012" />
+      <node id="LattesID_1930793797454956" label="LattesID_1930793797454956" />
+      <node id="LattesID_1965046652632898" label="LattesID_1965046652632898" />
+      <node id="LattesID_6634739381978013" label="LattesID_6634739381978013" />
+      <node id="LattesID_197731060424158" label="LattesID_197731060424158" />
+      <node id="LattesID_969327423299328" label="LattesID_969327423299328" />
+      <node id="LattesID_2028904344042798" label="LattesID_2028904344042798" />
+      <node id="LattesID_7952228328699161" label="LattesID_7952228328699161" />
+      <node id="LattesID_2030746662248842" label="LattesID_2030746662248842" />
+      <node id="LattesID_5284208499985821" label="LattesID_5284208499985821" />
+      <node id="LattesID_8406286556811550" label="LattesID_8406286556811550" />
+      <node id="LattesID_2097340857065853" label="LattesID_2097340857065853" />
+      <node id="LattesID_2118391660819227" label="LattesID_2118391660819227" />
+      <node id="LattesID_3446817929796674" label="LattesID_3446817929796674" />
+      <node id="LattesID_5082419783043736" label="LattesID_5082419783043736" />
+      <node id="LattesID_7670261541550702" label="LattesID_7670261541550702" />
+      <node id="LattesID_2101345650666445" label="LattesID_2101345650666445" />
+      <node id="LattesID_2109227810924409" label="LattesID_2109227810924409" />
+      <node id="LattesID_2210356035827181" label="LattesID_2210356035827181" />
+      <node id="LattesID_8115411925529441" label="LattesID_8115411925529441" />
+      <node id="LattesID_2131496810770098" label="LattesID_2131496810770098" />
+      <node id="LattesID_4751699166195344" label="LattesID_4751699166195344" />
+      <node id="LattesID_2137091048223480" label="LattesID_2137091048223480" />
+      <node id="LattesID_6923504145358889" label="LattesID_6923504145358889" />
+      <node id="LattesID_2141328053728710" label="LattesID_2141328053728710" />
+      <node id="LattesID_2182460150737879" label="LattesID_2182460150737879" />
+      <node id="LattesID_2193192561400733" label="LattesID_2193192561400733" />
+      <node id="LattesID_3636446089150807" label="LattesID_3636446089150807" />
+      <node id="LattesID_2248591013863307" label="LattesID_2248591013863307" />
+      <node id="LattesID_6413917211782026" label="LattesID_6413917211782026" />
+      <node id="LattesID_8901320181295016" label="LattesID_8901320181295016" />
+      <node id="LattesID_2266409430041146" label="LattesID_2266409430041146" />
+      <node id="LattesID_2283022405554044" label="LattesID_2283022405554044" />
+      <node id="LattesID_8265116967095452" label="LattesID_8265116967095452" />
+      <node id="LattesID_2305603694791405" label="LattesID_2305603694791405" />
+      <node id="LattesID_3524590211304012" label="LattesID_3524590211304012" />
+      <node id="LattesID_3977760354511853" label="LattesID_3977760354511853" />
+      <node id="LattesID_4038730280834132" label="LattesID_4038730280834132" />
+      <node id="LattesID_5257065023278066" label="LattesID_5257065023278066" />
+      <node id="LattesID_2307939425313065" label="LattesID_2307939425313065" />
+      <node id="LattesID_2332604239081900" label="LattesID_2332604239081900" />
+      <node id="LattesID_5939944067207881" label="LattesID_5939944067207881" />
+      <node id="LattesID_2341590343643296" label="LattesID_2341590343643296" />
+      <node id="LattesID_2368523362272656" label="LattesID_2368523362272656" />
+      <node id="LattesID_2373180848461397" label="LattesID_2373180848461397" />
+      <node id="LattesID_240551533292579" label="LattesID_240551533292579" />
+      <node id="LattesID_3186920393443928" label="LattesID_3186920393443928" />
+      <node id="LattesID_8626964624628522" label="LattesID_8626964624628522" />
+      <node id="LattesID_241862487783754" label="LattesID_241862487783754" />
+      <node id="LattesID_2604911000898464" label="LattesID_2604911000898464" />
+      <node id="LattesID_7396818382676736" label="LattesID_7396818382676736" />
+      <node id="LattesID_2449301663034852" label="LattesID_2449301663034852" />
+      <node id="LattesID_2483389565992894" label="LattesID_2483389565992894" />
+      <node id="LattesID_8003316810277307" label="LattesID_8003316810277307" />
+      <node id="LattesID_2499934310550358" label="LattesID_2499934310550358" />
+      <node id="LattesID_7442164171898567" label="LattesID_7442164171898567" />
+      <node id="LattesID_2508538092205306" label="LattesID_2508538092205306" />
+      <node id="LattesID_252766947347684" label="LattesID_252766947347684" />
+      <node id="LattesID_6210321951145266" label="LattesID_6210321951145266" />
+      <node id="LattesID_2543633050941005" label="LattesID_2543633050941005" />
+      <node id="LattesID_2548588402135708" label="LattesID_2548588402135708" />
+      <node id="LattesID_2562652838103607" label="LattesID_2562652838103607" />
+      <node id="LattesID_5723385125570881" label="LattesID_5723385125570881" />
+      <node id="LattesID_257744922714589" label="LattesID_257744922714589" />
+      <node id="LattesID_2583445528542625" label="LattesID_2583445528542625" />
+      <node id="LattesID_7373667017857571" label="LattesID_7373667017857571" />
+      <node id="LattesID_2596943093361435" label="LattesID_2596943093361435" />
+      <node id="LattesID_7767765176922071" label="LattesID_7767765176922071" />
+      <node id="LattesID_2650131039059271" label="LattesID_2650131039059271" />
+      <node id="LattesID_8717150703694552" label="LattesID_8717150703694552" />
+      <node id="LattesID_2657204297944320" label="LattesID_2657204297944320" />
+      <node id="LattesID_7003944191567552" label="LattesID_7003944191567552" />
+      <node id="LattesID_2716578191862052" label="LattesID_2716578191862052" />
+      <node id="LattesID_6312438763436837" label="LattesID_6312438763436837" />
+      <node id="LattesID_2784997614182231" label="LattesID_2784997614182231" />
+      <node id="LattesID_2828124381670231" label="LattesID_2828124381670231" />
+      <node id="LattesID_3879944876244096" label="LattesID_3879944876244096" />
+      <node id="LattesID_284791309350193" label="LattesID_284791309350193" />
+      <node id="LattesID_8175635608970623" label="LattesID_8175635608970623" />
+      <node id="LattesID_285507288188585" label="LattesID_285507288188585" />
+      <node id="LattesID_286125884999207" label="LattesID_286125884999207" />
+      <node id="LattesID_2877588716370443" label="LattesID_2877588716370443" />
+      <node id="LattesID_2906049721153618" label="LattesID_2906049721153618" />
+      <node id="LattesID_9398810362952245" label="LattesID_9398810362952245" />
+      <node id="LattesID_2939189320249744" label="LattesID_2939189320249744" />
+      <node id="LattesID_2968694597677203" label="LattesID_2968694597677203" />
+      <node id="LattesID_8557522316676339" label="LattesID_8557522316676339" />
+      <node id="LattesID_2971568649949171" label="LattesID_2971568649949171" />
+      <node id="LattesID_7888191553838017" label="LattesID_7888191553838017" />
+      <node id="LattesID_300957415364593" label="LattesID_300957415364593" />
+      <node id="LattesID_7077398001188294" label="LattesID_7077398001188294" />
+      <node id="LattesID_3023885342426808" label="LattesID_3023885342426808" />
+      <node id="LattesID_4487681434814567" label="LattesID_4487681434814567" />
+      <node id="LattesID_3081160584458201" label="LattesID_3081160584458201" />
+      <node id="LattesID_3083628377406351" label="LattesID_3083628377406351" />
+      <node id="LattesID_4616848792501359" label="LattesID_4616848792501359" />
+      <node id="LattesID_3091123485499725" label="LattesID_3091123485499725" />
+      <node id="LattesID_5725021666916341" label="LattesID_5725021666916341" />
+      <node id="LattesID_3098548295086867" label="LattesID_3098548295086867" />
+      <node id="LattesID_5514279823093282" label="LattesID_5514279823093282" />
+      <node id="LattesID_6695591100082194" label="LattesID_6695591100082194" />
+      <node id="LattesID_3136544073514958" label="LattesID_3136544073514958" />
+      <node id="LattesID_9950674050703908" label="LattesID_9950674050703908" />
+      <node id="LattesID_3144173608741010" label="LattesID_3144173608741010" />
+      <node id="LattesID_4890046762900137" label="LattesID_4890046762900137" />
+      <node id="LattesID_3163271519013006" label="LattesID_3163271519013006" />
+      <node id="LattesID_7188784344595649" label="LattesID_7188784344595649" />
+      <node id="LattesID_3174947703949142" label="LattesID_3174947703949142" />
+      <node id="LattesID_4241804239085387" label="LattesID_4241804239085387" />
+      <node id="LattesID_3183050056105009" label="LattesID_3183050056105009" />
+      <node id="LattesID_5336218259257800" label="LattesID_5336218259257800" />
+      <node id="LattesID_3195999683546142" label="LattesID_3195999683546142" />
+      <node id="LattesID_3196052576107598" label="LattesID_3196052576107598" />
+      <node id="LattesID_5486578243421803" label="LattesID_5486578243421803" />
+      <node id="LattesID_3243927632587027" label="LattesID_3243927632587027" />
+      <node id="LattesID_4094779288495026" label="LattesID_4094779288495026" />
+      <node id="LattesID_3262681213088048" label="LattesID_3262681213088048" />
+      <node id="LattesID_9222024053983021" label="LattesID_9222024053983021" />
+      <node id="LattesID_3266168192830463" label="LattesID_3266168192830463" />
+      <node id="LattesID_3282736820907252" label="LattesID_3282736820907252" />
+      <node id="LattesID_9652943228276515" label="LattesID_9652943228276515" />
+      <node id="LattesID_3283103593476831" label="LattesID_3283103593476831" />
+      <node id="LattesID_3914159735707328" label="LattesID_3914159735707328" />
+      <node id="LattesID_3300067187001570" label="LattesID_3300067187001570" />
+      <node id="LattesID_3302156767030647" label="LattesID_3302156767030647" />
+      <node id="LattesID_5916642485883241" label="LattesID_5916642485883241" />
+      <node id="LattesID_3333445513208066" label="LattesID_3333445513208066" />
+      <node id="LattesID_3355338790654065" label="LattesID_3355338790654065" />
+      <node id="LattesID_7532050172035129" label="LattesID_7532050172035129" />
+      <node id="LattesID_3355695980209598" label="LattesID_3355695980209598" />
+      <node id="LattesID_335836859792444" label="LattesID_335836859792444" />
+      <node id="LattesID_9216151677384336" label="LattesID_9216151677384336" />
+      <node id="LattesID_3405503472010994" label="LattesID_3405503472010994" />
+      <node id="LattesID_7241678053263242" label="LattesID_7241678053263242" />
+      <node id="LattesID_34196977785631" label="LattesID_34196977785631" />
+      <node id="LattesID_8483223952207555" label="LattesID_8483223952207555" />
+      <node id="LattesID_3436505281743087" label="LattesID_3436505281743087" />
+      <node id="LattesID_3451628262694747" label="LattesID_3451628262694747" />
+      <node id="LattesID_4451540730749377" label="LattesID_4451540730749377" />
+      <node id="LattesID_5368680512020633" label="LattesID_5368680512020633" />
+      <node id="LattesID_346769094775155" label="LattesID_346769094775155" />
+      <node id="LattesID_2004899053752109" label="LattesID_2004899053752109" />
+      <node id="LattesID_9520477461031645" label="LattesID_9520477461031645" />
+      <node id="LattesID_3473227177697458" label="LattesID_3473227177697458" />
+      <node id="LattesID_5938914593792473" label="LattesID_5938914593792473" />
+      <node id="LattesID_3483667901818921" label="LattesID_3483667901818921" />
+      <node id="LattesID_4186515742605446" label="LattesID_4186515742605446" />
+      <node id="LattesID_3490535803299080" label="LattesID_3490535803299080" />
+      <node id="LattesID_3499616508280892" label="LattesID_3499616508280892" />
+      <node id="LattesID_9414212573217453" label="LattesID_9414212573217453" />
+      <node id="LattesID_3518240071127311" label="LattesID_3518240071127311" />
+      <node id="LattesID_7674875576915670" label="LattesID_7674875576915670" />
+      <node id="LattesID_3524433143718420" label="LattesID_3524433143718420" />
+      <node id="LattesID_3527197809276361" label="LattesID_3527197809276361" />
+      <node id="LattesID_3532765293459410" label="LattesID_3532765293459410" />
+      <node id="LattesID_3542867700396961" label="LattesID_3542867700396961" />
+      <node id="LattesID_3564597309576489" label="LattesID_3564597309576489" />
+      <node id="LattesID_4935788335854516" label="LattesID_4935788335854516" />
+      <node id="LattesID_3681973868571725" label="LattesID_3681973868571725" />
+      <node id="LattesID_3688885609080645" label="LattesID_3688885609080645" />
+      <node id="LattesID_372650483087124" label="LattesID_372650483087124" />
+      <node id="LattesID_6932312739989757" label="LattesID_6932312739989757" />
+      <node id="LattesID_3734588405818556" label="LattesID_3734588405818556" />
+      <node id="LattesID_9403364226017898" label="LattesID_9403364226017898" />
+      <node id="LattesID_3761585497791105" label="LattesID_3761585497791105" />
+      <node id="LattesID_8928890008799265" label="LattesID_8928890008799265" />
+      <node id="LattesID_3763546320226094" label="LattesID_3763546320226094" />
+      <node id="LattesID_378390052925504" label="LattesID_378390052925504" />
+      <node id="LattesID_9625195382275378" label="LattesID_9625195382275378" />
+      <node id="LattesID_378798276126071" label="LattesID_378798276126071" />
+      <node id="LattesID_6228828702565216" label="LattesID_6228828702565216" />
+      <node id="LattesID_3801760595415178" label="LattesID_3801760595415178" />
+      <node id="LattesID_3845987167494193" label="LattesID_3845987167494193" />
+      <node id="LattesID_7224855414322463" label="LattesID_7224855414322463" />
+      <node id="LattesID_3869793758311110" label="LattesID_3869793758311110" />
+      <node id="LattesID_3901377309450654" label="LattesID_3901377309450654" />
+      <node id="LattesID_4525265173613927" label="LattesID_4525265173613927" />
+      <node id="LattesID_3917286174731045" label="LattesID_3917286174731045" />
+      <node id="LattesID_3934915662621397" label="LattesID_3934915662621397" />
+      <node id="LattesID_3997386421385499" label="LattesID_3997386421385499" />
+      <node id="LattesID_6935433850568144" label="LattesID_6935433850568144" />
+      <node id="LattesID_9840759640842299" label="LattesID_9840759640842299" />
+      <node id="LattesID_400232298849115" label="LattesID_400232298849115" />
+      <node id="LattesID_4643608666899616" label="LattesID_4643608666899616" />
+      <node id="LattesID_403935450457957" label="LattesID_403935450457957" />
+      <node id="LattesID_7147889968100804" label="LattesID_7147889968100804" />
+      <node id="LattesID_4045818083957064" label="LattesID_4045818083957064" />
+      <node id="LattesID_4456007001373501" label="LattesID_4456007001373501" />
+      <node id="LattesID_7514503917256623" label="LattesID_7514503917256623" />
+      <node id="LattesID_4068095206484923" label="LattesID_4068095206484923" />
+      <node id="LattesID_6261175351521953" label="LattesID_6261175351521953" />
+      <node id="LattesID_4140908385855725" label="LattesID_4140908385855725" />
+      <node id="LattesID_6680742566331144" label="LattesID_6680742566331144" />
+      <node id="LattesID_4142478901587907" label="LattesID_4142478901587907" />
+      <node id="LattesID_4151544991447365" label="LattesID_4151544991447365" />
+      <node id="LattesID_6216785304671453" label="LattesID_6216785304671453" />
+      <node id="LattesID_416601437290797" label="LattesID_416601437290797" />
+      <node id="LattesID_4721181770429919" label="LattesID_4721181770429919" />
+      <node id="LattesID_4218328980987254" label="LattesID_4218328980987254" />
+      <node id="LattesID_425874008159542" label="LattesID_425874008159542" />
+      <node id="LattesID_9201712893785499" label="LattesID_9201712893785499" />
+      <node id="LattesID_4393367734853964" label="LattesID_4393367734853964" />
+      <node id="LattesID_4984043849101331" label="LattesID_4984043849101331" />
+      <node id="LattesID_4436860841275628" label="LattesID_4436860841275628" />
+      <node id="LattesID_4466110931833988" label="LattesID_4466110931833988" />
+      <node id="LattesID_4438914190540949" label="LattesID_4438914190540949" />
+      <node id="LattesID_4491496654253354" label="LattesID_4491496654253354" />
+      <node id="LattesID_5704918230695924" label="LattesID_5704918230695924" />
+      <node id="LattesID_4532197122235013" label="LattesID_4532197122235013" />
+      <node id="LattesID_9821938265591545" label="LattesID_9821938265591545" />
+      <node id="LattesID_4543503393775701" label="LattesID_4543503393775701" />
+      <node id="LattesID_7888755937461651" label="LattesID_7888755937461651" />
+      <node id="LattesID_455487141833418" label="LattesID_455487141833418" />
+      <node id="LattesID_4761324267689856" label="LattesID_4761324267689856" />
+      <node id="LattesID_4567936059749011" label="LattesID_4567936059749011" />
+      <node id="LattesID_5321244029568287" label="LattesID_5321244029568287" />
+      <node id="LattesID_4568055385583393" label="LattesID_4568055385583393" />
+      <node id="LattesID_4577505947479643" label="LattesID_4577505947479643" />
+      <node id="LattesID_4584167984879284" label="LattesID_4584167984879284" />
+      <node id="LattesID_459162904145828" label="LattesID_459162904145828" />
+      <node id="LattesID_2446086662055314" label="LattesID_2446086662055314" />
+      <node id="LattesID_4629575839285869" label="LattesID_4629575839285869" />
+      <node id="LattesID_4714240398706670" label="LattesID_4714240398706670" />
+      <node id="LattesID_471595469074043" label="LattesID_471595469074043" />
+      <node id="LattesID_4728106898297335" label="LattesID_4728106898297335" />
+      <node id="LattesID_9071337247377116" label="LattesID_9071337247377116" />
+      <node id="LattesID_4791589931798048" label="LattesID_4791589931798048" />
+      <node id="LattesID_8571722708574643" label="LattesID_8571722708574643" />
+      <node id="LattesID_4796921913434370" label="LattesID_4796921913434370" />
+      <node id="LattesID_6382816131483581" label="LattesID_6382816131483581" />
+      <node id="LattesID_9129748440846907" label="LattesID_9129748440846907" />
+      <node id="LattesID_4796944485942487" label="LattesID_4796944485942487" />
+      <node id="LattesID_4863318065551221" label="LattesID_4863318065551221" />
+      <node id="LattesID_6131599082783310" label="LattesID_6131599082783310" />
+      <node id="LattesID_4908360202917485" label="LattesID_4908360202917485" />
+      <node id="LattesID_490838780480779" label="LattesID_490838780480779" />
+      <node id="LattesID_4908905422036211" label="LattesID_4908905422036211" />
+      <node id="LattesID_6424652558098121" label="LattesID_6424652558098121" />
+      <node id="LattesID_4953993121138640" label="LattesID_4953993121138640" />
+      <node id="LattesID_7690593698223418" label="LattesID_7690593698223418" />
+      <node id="LattesID_5010139685215361" label="LattesID_5010139685215361" />
+      <node id="LattesID_5034444360451621" label="LattesID_5034444360451621" />
+      <node id="LattesID_5041497500746910" label="LattesID_5041497500746910" />
+      <node id="LattesID_5353021338992861" label="LattesID_5353021338992861" />
+      <node id="LattesID_5043080196932200" label="LattesID_5043080196932200" />
+      <node id="LattesID_5050313480683695" label="LattesID_5050313480683695" />
+      <node id="LattesID_5075394906256166" label="LattesID_5075394906256166" />
+      <node id="LattesID_7065615446493390" label="LattesID_7065615446493390" />
+      <node id="LattesID_5098313138514050" label="LattesID_5098313138514050" />
+      <node id="LattesID_5136155977351408" label="LattesID_5136155977351408" />
+      <node id="LattesID_6710144245596859" label="LattesID_6710144245596859" />
+      <node id="LattesID_9431229866203038" label="LattesID_9431229866203038" />
+      <node id="LattesID_5138758521691630" label="LattesID_5138758521691630" />
+      <node id="LattesID_5167484637971756" label="LattesID_5167484637971756" />
+      <node id="LattesID_5239770862862966" label="LattesID_5239770862862966" />
+      <node id="LattesID_5288333107238702" label="LattesID_5288333107238702" />
+      <node id="LattesID_5364548256245450" label="LattesID_5364548256245450" />
+      <node id="LattesID_9797700814765523" label="LattesID_9797700814765523" />
+      <node id="LattesID_5369672706522008" label="LattesID_5369672706522008" />
+      <node id="LattesID_5371162236986081" label="LattesID_5371162236986081" />
+      <node id="LattesID_5383266787411605" label="LattesID_5383266787411605" />
+      <node id="LattesID_5438107871273282" label="LattesID_5438107871273282" />
+      <node id="LattesID_5452949507381981" label="LattesID_5452949507381981" />
+      <node id="LattesID_5554254760869075" label="LattesID_5554254760869075" />
+      <node id="LattesID_9173977294178020" label="LattesID_9173977294178020" />
+      <node id="LattesID_5558354805733623" label="LattesID_5558354805733623" />
+      <node id="LattesID_9089204821424223" label="LattesID_9089204821424223" />
+      <node id="LattesID_5585294405425860" label="LattesID_5585294405425860" />
+      <node id="LattesID_5604745373061740" label="LattesID_5604745373061740" />
+      <node id="LattesID_8915975180559275" label="LattesID_8915975180559275" />
+      <node id="LattesID_5631206025493479" label="LattesID_5631206025493479" />
+      <node id="LattesID_7040279344981888" label="LattesID_7040279344981888" />
+      <node id="LattesID_5653509413156744" label="LattesID_5653509413156744" />
+      <node id="LattesID_6946118605547297" label="LattesID_6946118605547297" />
+      <node id="LattesID_5657330710281879" label="LattesID_5657330710281879" />
+      <node id="LattesID_5674098794412714" label="LattesID_5674098794412714" />
+      <node id="LattesID_5707056206352512" label="LattesID_5707056206352512" />
+      <node id="LattesID_5746822816259454" label="LattesID_5746822816259454" />
+      <node id="LattesID_6824400602221355" label="LattesID_6824400602221355" />
+      <node id="LattesID_5948590274082247" label="LattesID_5948590274082247" />
+      <node id="LattesID_9578832375902806" label="LattesID_9578832375902806" />
+      <node id="LattesID_5971556358191272" label="LattesID_5971556358191272" />
+      <node id="LattesID_7902070751612416" label="LattesID_7902070751612416" />
+      <node id="LattesID_6037463340047597" label="LattesID_6037463340047597" />
+      <node id="LattesID_6126712875843734" label="LattesID_6126712875843734" />
+      <node id="LattesID_8778071496682261" label="LattesID_8778071496682261" />
+      <node id="LattesID_7580011219789716" label="LattesID_7580011219789716" />
+      <node id="LattesID_8807940650929492" label="LattesID_8807940650929492" />
+      <node id="LattesID_6195215666638965" label="LattesID_6195215666638965" />
+      <node id="LattesID_9195362898891079" label="LattesID_9195362898891079" />
+      <node id="LattesID_620986273710878" label="LattesID_620986273710878" />
+      <node id="LattesID_621862166341833" label="LattesID_621862166341833" />
+      <node id="LattesID_8768632680429517" label="LattesID_8768632680429517" />
+      <node id="LattesID_6236953777548570" label="LattesID_6236953777548570" />
+      <node id="LattesID_8291688787214146" label="LattesID_8291688787214146" />
+      <node id="LattesID_625923282466292" label="LattesID_625923282466292" />
+      <node id="LattesID_6282961654812088" label="LattesID_6282961654812088" />
+      <node id="LattesID_6286661930160341" label="LattesID_6286661930160341" />
+      <node id="LattesID_8526960535874806" label="LattesID_8526960535874806" />
+      <node id="LattesID_6444936383001612" label="LattesID_6444936383001612" />
+      <node id="LattesID_6453244305834445" label="LattesID_6453244305834445" />
+      <node id="LattesID_6580934910020175" label="LattesID_6580934910020175" />
+      <node id="LattesID_7814291436802540" label="LattesID_7814291436802540" />
+      <node id="LattesID_6587652745122507" label="LattesID_6587652745122507" />
+      <node id="LattesID_6607207172907857" label="LattesID_6607207172907857" />
+      <node id="LattesID_6613487636748832" label="LattesID_6613487636748832" />
+      <node id="LattesID_8538761803577291" label="LattesID_8538761803577291" />
+      <node id="LattesID_6614550860293610" label="LattesID_6614550860293610" />
+      <node id="LattesID_6625577688255022" label="LattesID_6625577688255022" />
+      <node id="LattesID_6626334710934671" label="LattesID_6626334710934671" />
+      <node id="LattesID_6635523086396765" label="LattesID_6635523086396765" />
+      <node id="LattesID_668518124645260" label="LattesID_668518124645260" />
+      <node id="LattesID_4786861067544484" label="LattesID_4786861067544484" />
+      <node id="LattesID_6685452619778462" label="LattesID_6685452619778462" />
+      <node id="LattesID_8590140337571249" label="LattesID_8590140337571249" />
+      <node id="LattesID_6723952614607082" label="LattesID_6723952614607082" />
+      <node id="LattesID_683206038422853" label="LattesID_683206038422853" />
+      <node id="LattesID_3669079636938542" label="LattesID_3669079636938542" />
+      <node id="LattesID_683719309513445" label="LattesID_683719309513445" />
+      <node id="LattesID_7770751615146997" label="LattesID_7770751615146997" />
+      <node id="LattesID_6894735942112278" label="LattesID_6894735942112278" />
+      <node id="LattesID_6918010504362643" label="LattesID_6918010504362643" />
+      <node id="LattesID_8306891687052522" label="LattesID_8306891687052522" />
+      <node id="LattesID_9199970180870105" label="LattesID_9199970180870105" />
+      <node id="LattesID_6950275463743445" label="LattesID_6950275463743445" />
+      <node id="LattesID_6974715253258198" label="LattesID_6974715253258198" />
+      <node id="LattesID_704592200063682" label="LattesID_704592200063682" />
+      <node id="LattesID_706269647912023" label="LattesID_706269647912023" />
+      <node id="LattesID_7080112300092250" label="LattesID_7080112300092250" />
+      <node id="LattesID_7081137143097605" label="LattesID_7081137143097605" />
+      <node id="LattesID_7105106788421440" label="LattesID_7105106788421440" />
+      <node id="LattesID_712611341649155" label="LattesID_712611341649155" />
+      <node id="LattesID_7151669913805328" label="LattesID_7151669913805328" />
+      <node id="LattesID_7180951922379856" label="LattesID_7180951922379856" />
+      <node id="LattesID_7221866306191176" label="LattesID_7221866306191176" />
+      <node id="LattesID_7226228571158486" label="LattesID_7226228571158486" />
+      <node id="LattesID_9492725982095751" label="LattesID_9492725982095751" />
+      <node id="LattesID_7246557168481527" label="LattesID_7246557168481527" />
+      <node id="LattesID_7337140412736712" label="LattesID_7337140412736712" />
+      <node id="LattesID_8306082053010264" label="LattesID_8306082053010264" />
+      <node id="LattesID_7390573927636069" label="LattesID_7390573927636069" />
+      <node id="LattesID_8992341585329383" label="LattesID_8992341585329383" />
+      <node id="LattesID_7445263918535127" label="LattesID_7445263918535127" />
+      <node id="LattesID_7481868767930127" label="LattesID_7481868767930127" />
+      <node id="LattesID_9999217523842385" label="LattesID_9999217523842385" />
+      <node id="LattesID_74833031020069" label="LattesID_74833031020069" />
+      <node id="LattesID_7621153201862444" label="LattesID_7621153201862444" />
+      <node id="LattesID_774464575739440" label="LattesID_774464575739440" />
+      <node id="LattesID_7759392930119043" label="LattesID_7759392930119043" />
+      <node id="LattesID_9048531014341931" label="LattesID_9048531014341931" />
+      <node id="LattesID_7797002937282168" label="LattesID_7797002937282168" />
+      <node id="LattesID_7811009170361239" label="LattesID_7811009170361239" />
+      <node id="LattesID_7830251697546483" label="LattesID_7830251697546483" />
+      <node id="LattesID_7884364909927473" label="LattesID_7884364909927473" />
+      <node id="LattesID_7897779819494573" label="LattesID_7897779819494573" />
+      <node id="LattesID_8281601894113525" label="LattesID_8281601894113525" />
+      <node id="LattesID_7899304734293116" label="LattesID_7899304734293116" />
+      <node id="LattesID_7939955411255742" label="LattesID_7939955411255742" />
+      <node id="LattesID_799282373201889" label="LattesID_799282373201889" />
+      <node id="LattesID_799661863186569" label="LattesID_799661863186569" />
+      <node id="LattesID_8038860962291446" label="LattesID_8038860962291446" />
+      <node id="LattesID_807511237795775" label="LattesID_807511237795775" />
+      <node id="LattesID_2491891766759477" label="LattesID_2491891766759477" />
+      <node id="LattesID_807993828734491" label="LattesID_807993828734491" />
+      <node id="LattesID_8119785638200345" label="LattesID_8119785638200345" />
+      <node id="LattesID_8172124241767828" label="LattesID_8172124241767828" />
+      <node id="LattesID_8181104476035846" label="LattesID_8181104476035846" />
+      <node id="LattesID_9474423287192932" label="LattesID_9474423287192932" />
+      <node id="LattesID_8212775960494686" label="LattesID_8212775960494686" />
+      <node id="LattesID_83781586520627" label="LattesID_83781586520627" />
+      <node id="LattesID_8385283959153698" label="LattesID_8385283959153698" />
+      <node id="LattesID_8392706159125796" label="LattesID_8392706159125796" />
+      <node id="LattesID_8429319957087376" label="LattesID_8429319957087376" />
+      <node id="LattesID_8496716957724133" label="LattesID_8496716957724133" />
+      <node id="LattesID_8502546601452651" label="LattesID_8502546601452651" />
+      <node id="LattesID_8505634095383289" label="LattesID_8505634095383289" />
+      <node id="LattesID_9860968235125158" label="LattesID_9860968235125158" />
+      <node id="LattesID_851148137941240" label="LattesID_851148137941240" />
+      <node id="LattesID_8539341671152883" label="LattesID_8539341671152883" />
+      <node id="LattesID_8568857954896648" label="LattesID_8568857954896648" />
+      <node id="LattesID_9859511150127352" label="LattesID_9859511150127352" />
+      <node id="LattesID_862583266198572" label="LattesID_862583266198572" />
+      <node id="LattesID_2630366822189538" label="LattesID_2630366822189538" />
+      <node id="LattesID_864587194481223" label="LattesID_864587194481223" />
+      <node id="LattesID_8652546198431453" label="LattesID_8652546198431453" />
+      <node id="LattesID_8702637805691545" label="LattesID_8702637805691545" />
+      <node id="LattesID_8716094042714766" label="LattesID_8716094042714766" />
+      <node id="LattesID_9340343036686762" label="LattesID_9340343036686762" />
+      <node id="LattesID_8720357455345563" label="LattesID_8720357455345563" />
+      <node id="LattesID_8730904907286096" label="LattesID_8730904907286096" />
+      <node id="LattesID_8784162002608095" label="LattesID_8784162002608095" />
+      <node id="LattesID_8870215298283456" label="LattesID_8870215298283456" />
+      <node id="LattesID_9023124315724834" label="LattesID_9023124315724834" />
+      <node id="LattesID_895927612068566" label="LattesID_895927612068566" />
+      <node id="LattesID_8985375427502337" label="LattesID_8985375427502337" />
+      <node id="LattesID_9870663748100803" label="LattesID_9870663748100803" />
+      <node id="LattesID_9092587237114334" label="LattesID_9092587237114334" />
+      <node id="LattesID_9212317615801479" label="LattesID_9212317615801479" />
+      <node id="LattesID_9372598538923672" label="LattesID_9372598538923672" />
+      <node id="LattesID_9507382254235935" label="LattesID_9507382254235935" />
+      <node id="LattesID_9512518346363114" label="LattesID_9512518346363114" />
+      <node id="LattesID_959419622353758" label="LattesID_959419622353758" />
+      <node id="LattesID_994463905511529" label="LattesID_994463905511529" />
+    </nodes>
+    <edges>
+      <edge source="LattesID_1032225749434466" target="LattesID_2340689518921145" id="0" weight="1" />
+      <edge source="LattesID_1032225749434466" target="LattesID_7116075671588859" id="1" weight="6" />
+      <edge source="LattesID_1032225749434466" target="LattesID_7902863199631787" id="2" weight="1" />
+      <edge source="LattesID_1032225749434466" target="LattesID_257744922714589" id="3" weight="1" />
+      <edge source="LattesID_2340689518921145" target="LattesID_2340689518921145" id="4" weight="5" />
+      <edge source="LattesID_2340689518921145" target="LattesID_7116075671588859" id="5" weight="1" />
+      <edge source="LattesID_7116075671588859" target="LattesID_257744922714589" id="6" weight="1" />
+      <edge source="LattesID_7116075671588859" target="LattesID_7902863199631787" id="7" weight="1" />
+      <edge source="LattesID_1069795934274923" target="LattesID_7945266734797620" id="8" weight="1" />
+      <edge source="LattesID_7945266734797620" target="LattesID_6923504145358889" id="9" weight="1" />
+      <edge source="LattesID_7945266734797620" target="LattesID_7811009170361239" id="10" weight="3" />
+      <edge source="LattesID_1074372911061770" target="LattesID_1325247019367288" id="11" weight="1" />
+      <edge source="LattesID_1074372911061770" target="LattesID_3916683240962357" id="12" weight="1" />
+      <edge source="LattesID_1074372911061770" target="LattesID_6489257938942420" id="13" weight="1" />
+      <edge source="LattesID_1325247019367288" target="LattesID_1325247019367288" id="14" weight="6" />
+      <edge source="LattesID_1325247019367288" target="LattesID_3916683240962357" id="15" weight="1" />
+      <edge source="LattesID_1325247019367288" target="LattesID_6489257938942420" id="16" weight="1" />
+      <edge source="LattesID_3916683240962357" target="LattesID_4525265173613927" id="17" weight="2" />
+      <edge source="LattesID_3916683240962357" target="LattesID_5400370038397801" id="18" weight="1" />
+      <edge source="LattesID_3916683240962357" target="LattesID_6489257938942420" id="19" weight="1" />
+      <edge source="LattesID_6489257938942420" target="LattesID_1311270866082988" id="20" weight="1" />
+      <edge source="LattesID_107727024654188" target="LattesID_3291500007075755" id="21" weight="1" />
+      <edge source="LattesID_107727024654188" target="LattesID_8634132437501861" id="22" weight="1" />
+      <edge source="LattesID_1095193209251351" target="LattesID_1095193209251351" id="23" weight="1" />
+      <edge source="LattesID_1095193209251351" target="LattesID_4973731190814126" id="24" weight="1" />
+      <edge source="LattesID_1097952760431187" target="LattesID_4189604454431782" id="25" weight="1" />
+      <edge source="LattesID_1097952760431187" target="LattesID_7573837292080522" id="26" weight="1" />
+      <edge source="LattesID_4189604454431782" target="LattesID_3483667901818921" id="27" weight="1" />
+      <edge source="LattesID_4189604454431782" target="LattesID_4045818083957064" id="28" weight="2" />
+      <edge source="LattesID_4189604454431782" target="LattesID_5417946704251656" id="29" weight="22" />
+      <edge source="LattesID_4189604454431782" target="LattesID_7573837292080522" id="30" weight="1" />
+      <edge source="LattesID_109879345362476" target="LattesID_9631745554236280" id="31" weight="1" />
+      <edge source="LattesID_1100065907067996" target="LattesID_5024898338240640" id="32" weight="1" />
+      <edge source="LattesID_5024898338240640" target="LattesID_1614872930046854" id="33" weight="1" />
+      <edge source="LattesID_5024898338240640" target="LattesID_74833031020069" id="34" weight="1" />
+      <edge source="LattesID_1123376648713853" target="LattesID_1744732999336375" id="35" weight="1" />
+      <edge source="LattesID_1123376648713853" target="LattesID_2951269593210008" id="36" weight="1" />
+      <edge source="LattesID_1123376648713853" target="LattesID_3767009717402045" id="37" weight="1" />
+      <edge source="LattesID_1130012055294645" target="LattesID_1130012055294645" id="38" weight="1" />
+      <edge source="LattesID_1130012055294645" target="LattesID_6321179168854922" id="39" weight="4" />
+      <edge source="LattesID_1130012055294645" target="LattesID_9674541381385819" id="40" weight="5" />
+      <edge source="LattesID_6321179168854922" target="LattesID_6321179168854922" id="41" weight="2" />
+      <edge source="LattesID_6321179168854922" target="LattesID_8526960535874806" id="42" weight="1" />
+      <edge source="LattesID_6321179168854922" target="LattesID_9674541381385819" id="43" weight="4" />
+      <edge source="LattesID_9674541381385819" target="LattesID_3451628262694747" id="44" weight="2" />
+      <edge source="LattesID_9674541381385819" target="LattesID_4451540730749377" id="45" weight="2" />
+      <edge source="LattesID_9674541381385819" target="LattesID_5368680512020633" id="46" weight="2" />
+      <edge source="LattesID_9674541381385819" target="LattesID_8172124241767828" id="47" weight="1" />
+      <edge source="LattesID_9674541381385819" target="LattesID_9674541381385819" id="48" weight="2" />
+      <edge source="LattesID_11303079806761" target="LattesID_11303079806761" id="49" weight="2" />
+      <edge source="LattesID_1143985671114403" target="LattesID_3925632508523050" id="50" weight="1" />
+      <edge source="LattesID_1173620785883814" target="LattesID_2739279461946618" id="51" weight="1" />
+      <edge source="LattesID_1173620785883814" target="LattesID_8514450520201861" id="52" weight="1" />
+      <edge source="LattesID_1173620785883814" target="LattesID_286125884999207" id="53" weight="2" />
+      <edge source="LattesID_1183524198654764" target="LattesID_5340049196888351" id="54" weight="1" />
+      <edge source="LattesID_1183524198654764" target="LattesID_5400370038397801" id="55" weight="2" />
+      <edge source="LattesID_5340049196888351" target="LattesID_5340049196888351" id="56" weight="1" />
+      <edge source="LattesID_5400370038397801" target="LattesID_4525265173613927" id="57" weight="1" />
+      <edge source="LattesID_1197390306069415" target="LattesID_1197390306069415" id="58" weight="1" />
+      <edge source="LattesID_120462063853093" target="LattesID_120462063853093" id="59" weight="1" />
+      <edge source="LattesID_1209382022297634" target="LattesID_1209382022297634" id="60" weight="1" />
+      <edge source="LattesID_1209382022297634" target="LattesID_3566465649283245" id="61" weight="6" />
+      <edge source="LattesID_1209382022297634" target="LattesID_4946117471548540" id="62" weight="1" />
+      <edge source="LattesID_3566465649283245" target="LattesID_3566465649283245" id="63" weight="3" />
+      <edge source="LattesID_1214389619505648" target="LattesID_1214389619505648" id="64" weight="1" />
+      <edge source="LattesID_1239530829485063" target="LattesID_3884561206562655" id="65" weight="1" />
+      <edge source="LattesID_1244195230407619" target="LattesID_2543299534493653" id="66" weight="1" />
+      <edge source="LattesID_1279824839196223" target="LattesID_1279824839196223" id="67" weight="6" />
+      <edge source="LattesID_1279824839196223" target="LattesID_4065117731206061" id="68" weight="1" />
+      <edge source="LattesID_129101355582907" target="LattesID_129101355582907" id="69" weight="1" />
+      <edge source="LattesID_1293545009505347" target="LattesID_4147899091047166" id="70" weight="1" />
+      <edge source="LattesID_1321820478036793" target="LattesID_1861914973833506" id="71" weight="1" />
+      <edge source="LattesID_1321820478036793" target="LattesID_8934962824316146" id="72" weight="1" />
+      <edge source="LattesID_1861914973833506" target="LattesID_8934962824316146" id="73" weight="1" />
+      <edge source="LattesID_1324291141781772" target="LattesID_4576414337840820" id="74" weight="1" />
+      <edge source="LattesID_1392245233631576" target="LattesID_4555037539754459" id="75" weight="1" />
+      <edge source="LattesID_1392245233631576" target="LattesID_6746193797118427" id="76" weight="1" />
+      <edge source="LattesID_4555037539754459" target="LattesID_6746193797118427" id="77" weight="1" />
+      <edge source="LattesID_6746193797118427" target="LattesID_2596943093361435" id="78" weight="1" />
+      <edge source="LattesID_6746193797118427" target="LattesID_490838780480779" id="79" weight="3" />
+      <edge source="LattesID_6746193797118427" target="LattesID_6746193797118427" id="80" weight="3" />
+      <edge source="LattesID_1396385111251741" target="LattesID_5417946704251656" id="81" weight="1" />
+      <edge source="LattesID_1396385111251741" target="LattesID_851148137941240" id="82" weight="1" />
+      <edge source="LattesID_5417946704251656" target="LattesID_3483667901818921" id="83" weight="3" />
+      <edge source="LattesID_5417946704251656" target="LattesID_4186515742605446" id="84" weight="1" />
+      <edge source="LattesID_5417946704251656" target="LattesID_5417946704251656" id="85" weight="1" />
+      <edge source="LattesID_5417946704251656" target="LattesID_851148137941240" id="86" weight="1" />
+      <edge source="LattesID_1412248256443525" target="LattesID_1412248256443525" id="87" weight="3" />
+      <edge source="LattesID_1422895308009825" target="LattesID_1422895308009825" id="88" weight="1" />
+      <edge source="LattesID_1434896097110889" target="LattesID_8745326804306646" id="89" weight="1" />
+      <edge source="LattesID_1434896097110889" target="LattesID_9528610534584200" id="90" weight="1" />
+      <edge source="LattesID_146077522102988" target="LattesID_146077522102988" id="91" weight="1" />
+      <edge source="LattesID_146077522102988" target="LattesID_5217795669575718" id="92" weight="2" />
+      <edge source="LattesID_1508704515015286" target="LattesID_1508704515015286" id="93" weight="2" />
+      <edge source="LattesID_152834093913136" target="LattesID_5478589107930738" id="94" weight="1" />
+      <edge source="LattesID_152834093913136" target="LattesID_8149101348085972" id="95" weight="1" />
+      <edge source="LattesID_152834093913136" target="LattesID_8487981600635230" id="96" weight="1" />
+      <edge source="LattesID_5478589107930738" target="LattesID_8149101348085972" id="97" weight="1" />
+      <edge source="LattesID_5478589107930738" target="LattesID_8487981600635230" id="98" weight="1" />
+      <edge source="LattesID_8149101348085972" target="LattesID_8487981600635230" id="99" weight="1" />
+      <edge source="LattesID_1538338871689655" target="LattesID_2302314954133011" id="100" weight="1" />
+      <edge source="LattesID_2302314954133011" target="LattesID_2302314954133011" id="101" weight="3" />
+      <edge source="LattesID_1541358395524786" target="LattesID_1541358395524786" id="102" weight="1" />
+      <edge source="LattesID_1562357566810393" target="LattesID_1562357566810393" id="103" weight="1" />
+      <edge source="LattesID_1562357566810393" target="LattesID_5551697165370587" id="104" weight="2" />
+      <edge source="LattesID_1562357566810393" target="LattesID_8800859024101679" id="105" weight="1" />
+      <edge source="LattesID_5551697165370587" target="LattesID_8800859024101679" id="106" weight="1" />
+      <edge source="LattesID_8800859024101679" target="LattesID_5369672706522008" id="107" weight="2" />
+      <edge source="LattesID_159433721761670" target="LattesID_2938668337725676" id="108" weight="1" />
+      <edge source="LattesID_1614872930046854" target="LattesID_74833031020069" id="109" weight="1" />
+      <edge source="LattesID_162244851289477" target="LattesID_4768784008798361" id="110" weight="2" />
+      <edge source="LattesID_1646871409805700" target="LattesID_2879843884282867" id="111" weight="1" />
+      <edge source="LattesID_1646956319628219" target="LattesID_3586142049278272" id="112" weight="1" />
+      <edge source="LattesID_1646956319628219" target="LattesID_9600140904712115" id="113" weight="1" />
+      <edge source="LattesID_9600140904712115" target="LattesID_704592200063682" id="114" weight="1" />
+      <edge source="LattesID_1670738049534162" target="LattesID_9648618344545667" id="115" weight="2" />
+      <edge source="LattesID_1675315368809161" target="LattesID_1675315368809161" id="116" weight="1" />
+      <edge source="LattesID_174372765974716" target="LattesID_2608560883389574" id="117" weight="1" />
+      <edge source="LattesID_2608560883389574" target="LattesID_2608560883389574" id="118" weight="2" />
+      <edge source="LattesID_2608560883389574" target="LattesID_7767765176922071" id="119" weight="3" />
+      <edge source="LattesID_1750385790843118" target="LattesID_1750385790843118" id="120" weight="1" />
+      <edge source="LattesID_1756895777404187" target="LattesID_2741458816539568" id="121" weight="1" />
+      <edge source="LattesID_1768025290373669" target="LattesID_4187392366935703" id="122" weight="2" />
+      <edge source="LattesID_4187392366935703" target="LattesID_4187392366935703" id="123" weight="1" />
+      <edge source="LattesID_1805694855931202" target="LattesID_1805694855931202" id="124" weight="1" />
+      <edge source="LattesID_1819612551612136" target="LattesID_5921185698230768" id="125" weight="1" />
+      <edge source="LattesID_1819902045004845" target="LattesID_1819902045004845" id="126" weight="1" />
+      <edge source="LattesID_1819902045004845" target="LattesID_3922425256469519" id="127" weight="2" />
+      <edge source="LattesID_1819902045004845" target="LattesID_4346810447071054" id="128" weight="2" />
+      <edge source="LattesID_1819902045004845" target="LattesID_286125884999207" id="129" weight="2" />
+      <edge source="LattesID_3922425256469519" target="LattesID_286125884999207" id="130" weight="1" />
+      <edge source="LattesID_3922425256469519" target="LattesID_4346810447071054" id="131" weight="2" />
+      <edge source="LattesID_4346810447071054" target="LattesID_286125884999207" id="132" weight="1" />
+      <edge source="LattesID_1829333800490851" target="LattesID_2259041691301555" id="133" weight="1" />
+      <edge source="LattesID_1829333800490851" target="LattesID_3447520409510736" id="134" weight="1" />
+      <edge source="LattesID_1829333800490851" target="LattesID_5008996792274217" id="135" weight="1" />
+      <edge source="LattesID_1829333800490851" target="LattesID_5777705137810019" id="136" weight="1" />
+      <edge source="LattesID_1829333800490851" target="LattesID_240551533292579" id="137" weight="1" />
+      <edge source="LattesID_2259041691301555" target="LattesID_2259041691301555" id="138" weight="1" />
+      <edge source="LattesID_2259041691301555" target="LattesID_3447520409510736" id="139" weight="1" />
+      <edge source="LattesID_2259041691301555" target="LattesID_5777705137810019" id="140" weight="1" />
+      <edge source="LattesID_2259041691301555" target="LattesID_8901320181295016" id="141" weight="2" />
+      <edge source="LattesID_2259041691301555" target="LattesID_240551533292579" id="142" weight="1" />
+      <edge source="LattesID_3447520409510736" target="LattesID_240551533292579" id="143" weight="1" />
+      <edge source="LattesID_3447520409510736" target="LattesID_5777705137810019" id="144" weight="1" />
+      <edge source="LattesID_5008996792274217" target="LattesID_7690593698223418" id="145" weight="1" />
+      <edge source="LattesID_5777705137810019" target="LattesID_240551533292579" id="146" weight="1" />
+      <edge source="LattesID_1840336983035010" target="LattesID_9039182932747194" id="147" weight="1" />
+      <edge source="LattesID_9039182932747194" target="LattesID_8212775960494686" id="148" weight="1" />
+      <edge source="LattesID_1855788987814153" target="LattesID_1855788987814153" id="149" weight="1" />
+      <edge source="LattesID_1855788987814153" target="LattesID_2650005780522066" id="150" weight="6" />
+      <edge source="LattesID_2650005780522066" target="LattesID_2650005780522066" id="151" weight="9" />
+      <edge source="LattesID_1869946318928945" target="LattesID_1869946318928945" id="152" weight="1" />
+      <edge source="LattesID_189095897739979" target="LattesID_9912454472927669" id="153" weight="1" />
+      <edge source="LattesID_9912454472927669" target="LattesID_9912454472927669" id="154" weight="1" />
+      <edge source="LattesID_1916886621452638" target="LattesID_3185627819021012" id="155" weight="1" />
+      <edge source="LattesID_1930793797454956" target="LattesID_1930793797454956" id="156" weight="1" />
+      <edge source="LattesID_1965046652632898" target="LattesID_1965046652632898" id="157" weight="1" />
+      <edge source="LattesID_1965046652632898" target="LattesID_6634739381978013" id="158" weight="2" />
+      <edge source="LattesID_197731060424158" target="LattesID_969327423299328" id="159" weight="1" />
+      <edge source="LattesID_2028904344042798" target="LattesID_7952228328699161" id="160" weight="1" />
+      <edge source="LattesID_7952228328699161" target="LattesID_6210321951145266" id="161" weight="6" />
+      <edge source="LattesID_7952228328699161" target="LattesID_7952228328699161" id="162" weight="3" />
+      <edge source="LattesID_2030746662248842" target="LattesID_2030746662248842" id="163" weight="1" />
+      <edge source="LattesID_2030746662248842" target="LattesID_5284208499985821" id="164" weight="1" />
+      <edge source="LattesID_2030746662248842" target="LattesID_8406286556811550" id="165" weight="1" />
+      <edge source="LattesID_5284208499985821" target="LattesID_8406286556811550" id="166" weight="1" />
+      <edge source="LattesID_2097340857065853" target="LattesID_2118391660819227" id="167" weight="1" />
+      <edge source="LattesID_2097340857065853" target="LattesID_3446817929796674" id="168" weight="1" />
+      <edge source="LattesID_2097340857065853" target="LattesID_5082419783043736" id="169" weight="1" />
+      <edge source="LattesID_2097340857065853" target="LattesID_7670261541550702" id="170" weight="1" />
+      <edge source="LattesID_2097340857065853" target="LattesID_712611341649155" id="171" weight="1" />
+      <edge source="LattesID_2118391660819227" target="LattesID_3446817929796674" id="172" weight="1" />
+      <edge source="LattesID_2118391660819227" target="LattesID_5082419783043736" id="173" weight="1" />
+      <edge source="LattesID_2118391660819227" target="LattesID_7670261541550702" id="174" weight="1" />
+      <edge source="LattesID_2118391660819227" target="LattesID_8115411925529441" id="175" weight="1" />
+      <edge source="LattesID_2118391660819227" target="LattesID_712611341649155" id="176" weight="1" />
+      <edge source="LattesID_3446817929796674" target="LattesID_5082419783043736" id="177" weight="1" />
+      <edge source="LattesID_3446817929796674" target="LattesID_7670261541550702" id="178" weight="1" />
+      <edge source="LattesID_3446817929796674" target="LattesID_712611341649155" id="179" weight="1" />
+      <edge source="LattesID_5082419783043736" target="LattesID_7065615446493390" id="180" weight="1" />
+      <edge source="LattesID_5082419783043736" target="LattesID_7670261541550702" id="181" weight="1" />
+      <edge source="LattesID_5082419783043736" target="LattesID_712611341649155" id="182" weight="1" />
+      <edge source="LattesID_7670261541550702" target="LattesID_378390052925504" id="183" weight="1" />
+      <edge source="LattesID_7670261541550702" target="LattesID_712611341649155" id="184" weight="1" />
+      <edge source="LattesID_7670261541550702" target="LattesID_9414212573217453" id="185" weight="1" />
+      <edge source="LattesID_2101345650666445" target="LattesID_2101345650666445" id="186" weight="1" />
+      <edge source="LattesID_2109227810924409" target="LattesID_2210356035827181" id="187" weight="1" />
+      <edge source="LattesID_2131496810770098" target="LattesID_4751699166195344" id="188" weight="1" />
+      <edge source="LattesID_2137091048223480" target="LattesID_6923504145358889" id="189" weight="1" />
+      <edge source="LattesID_2137091048223480" target="LattesID_625923282466292" id="190" weight="1" />
+      <edge source="LattesID_6923504145358889" target="LattesID_625923282466292" id="191" weight="1" />
+      <edge source="LattesID_6923504145358889" target="LattesID_6923504145358889" id="192" weight="1" />
+      <edge source="LattesID_6923504145358889" target="LattesID_799661863186569" id="193" weight="1" />
+      <edge source="LattesID_2141328053728710" target="LattesID_2141328053728710" id="194" weight="3" />
+      <edge source="LattesID_2182460150737879" target="LattesID_2182460150737879" id="195" weight="1" />
+      <edge source="LattesID_2193192561400733" target="LattesID_3636446089150807" id="196" weight="1" />
+      <edge source="LattesID_2248591013863307" target="LattesID_6413917211782026" id="197" weight="1" />
+      <edge source="LattesID_6413917211782026" target="LattesID_2368523362272656" id="198" weight="2" />
+      <edge source="LattesID_8901320181295016" target="LattesID_240551533292579" id="199" weight="1" />
+      <edge source="LattesID_8901320181295016" target="LattesID_8626964624628522" id="200" weight="1" />
+      <edge source="LattesID_2266409430041146" target="LattesID_2266409430041146" id="201" weight="1" />
+      <edge source="LattesID_2283022405554044" target="LattesID_8265116967095452" id="202" weight="1" />
+      <edge source="LattesID_2305603694791405" target="LattesID_3524590211304012" id="203" weight="1" />
+      <edge source="LattesID_2305603694791405" target="LattesID_3977760354511853" id="204" weight="1" />
+      <edge source="LattesID_2305603694791405" target="LattesID_4038730280834132" id="205" weight="2" />
+      <edge source="LattesID_2305603694791405" target="LattesID_5257065023278066" id="206" weight="1" />
+      <edge source="LattesID_3524590211304012" target="LattesID_3977760354511853" id="207" weight="1" />
+      <edge source="LattesID_3524590211304012" target="LattesID_4038730280834132" id="208" weight="2" />
+      <edge source="LattesID_3524590211304012" target="LattesID_5257065023278066" id="209" weight="1" />
+      <edge source="LattesID_3977760354511853" target="LattesID_4038730280834132" id="210" weight="2" />
+      <edge source="LattesID_3977760354511853" target="LattesID_5257065023278066" id="211" weight="1" />
+      <edge source="LattesID_4038730280834132" target="LattesID_2562652838103607" id="212" weight="1" />
+      <edge source="LattesID_4038730280834132" target="LattesID_3163271519013006" id="213" weight="1" />
+      <edge source="LattesID_4038730280834132" target="LattesID_4038730280834132" id="214" weight="1" />
+      <edge source="LattesID_4038730280834132" target="LattesID_5257065023278066" id="215" weight="2" />
+      <edge source="LattesID_4038730280834132" target="LattesID_5723385125570881" id="216" weight="1" />
+      <edge source="LattesID_4038730280834132" target="LattesID_7188784344595649" id="217" weight="1" />
+      <edge source="LattesID_2307939425313065" target="LattesID_2307939425313065" id="218" weight="6" />
+      <edge source="LattesID_2332604239081900" target="LattesID_5939944067207881" id="219" weight="1" />
+      <edge source="LattesID_2341590343643296" target="LattesID_2341590343643296" id="220" weight="1" />
+      <edge source="LattesID_2373180848461397" target="LattesID_2373180848461397" id="221" weight="1" />
+      <edge source="LattesID_240551533292579" target="LattesID_3186920393443928" id="222" weight="1" />
+      <edge source="LattesID_240551533292579" target="LattesID_8626964624628522" id="223" weight="2" />
+      <edge source="LattesID_241862487783754" target="LattesID_2604911000898464" id="224" weight="1" />
+      <edge source="LattesID_241862487783754" target="LattesID_7396818382676736" id="225" weight="1" />
+      <edge source="LattesID_2604911000898464" target="LattesID_7396818382676736" id="226" weight="1" />
+      <edge source="LattesID_2449301663034852" target="LattesID_2449301663034852" id="227" weight="7" />
+      <edge source="LattesID_2483389565992894" target="LattesID_8003316810277307" id="228" weight="1" />
+      <edge source="LattesID_2499934310550358" target="LattesID_7442164171898567" id="229" weight="1" />
+      <edge source="LattesID_2508538092205306" target="LattesID_2508538092205306" id="230" weight="1" />
+      <edge source="LattesID_252766947347684" target="LattesID_6210321951145266" id="231" weight="2" />
+      <edge source="LattesID_6210321951145266" target="LattesID_3542867700396961" id="232" weight="4" />
+      <edge source="LattesID_6210321951145266" target="LattesID_5383266787411605" id="233" weight="10" />
+      <edge source="LattesID_6210321951145266" target="LattesID_6210321951145266" id="234" weight="23" />
+      <edge source="LattesID_2543633050941005" target="LattesID_2543633050941005" id="235" weight="1" />
+      <edge source="LattesID_2548588402135708" target="LattesID_2548588402135708" id="236" weight="1" />
+      <edge source="LattesID_2562652838103607" target="LattesID_5723385125570881" id="237" weight="1" />
+      <edge source="LattesID_5723385125570881" target="LattesID_5098313138514050" id="238" weight="1" />
+      <edge source="LattesID_2583445528542625" target="LattesID_7373667017857571" id="239" weight="1" />
+      <edge source="LattesID_2650131039059271" target="LattesID_8717150703694552" id="240" weight="2" />
+      <edge source="LattesID_2657204297944320" target="LattesID_7003944191567552" id="241" weight="1" />
+      <edge source="LattesID_2716578191862052" target="LattesID_6312438763436837" id="242" weight="1" />
+      <edge source="LattesID_2784997614182231" target="LattesID_2784997614182231" id="243" weight="1" />
+      <edge source="LattesID_2828124381670231" target="LattesID_3879944876244096" id="244" weight="2" />
+      <edge source="LattesID_2828124381670231" target="LattesID_83781586520627" id="245" weight="1" />
+      <edge source="LattesID_284791309350193" target="LattesID_8175635608970623" id="246" weight="1" />
+      <edge source="LattesID_285507288188585" target="LattesID_285507288188585" id="247" weight="2" />
+      <edge source="LattesID_286125884999207" target="LattesID_286125884999207" id="248" weight="2" />
+      <edge source="LattesID_2877588716370443" target="LattesID_2877588716370443" id="249" weight="1" />
+      <edge source="LattesID_2906049721153618" target="LattesID_9398810362952245" id="250" weight="1" />
+      <edge source="LattesID_2939189320249744" target="LattesID_2939189320249744" id="251" weight="11" />
+      <edge source="LattesID_2968694597677203" target="LattesID_8557522316676339" id="252" weight="1" />
+      <edge source="LattesID_2971568649949171" target="LattesID_7888191553838017" id="253" weight="1" />
+      <edge source="LattesID_300957415364593" target="LattesID_7077398001188294" id="254" weight="1" />
+      <edge source="LattesID_3023885342426808" target="LattesID_4487681434814567" id="255" weight="1" />
+      <edge source="LattesID_3081160584458201" target="LattesID_3081160584458201" id="256" weight="2" />
+      <edge source="LattesID_3083628377406351" target="LattesID_4616848792501359" id="257" weight="1" />
+      <edge source="LattesID_3091123485499725" target="LattesID_5725021666916341" id="258" weight="1" />
+      <edge source="LattesID_5725021666916341" target="LattesID_7188784344595649" id="259" weight="1" />
+      <edge source="LattesID_3098548295086867" target="LattesID_5514279823093282" id="260" weight="1" />
+      <edge source="LattesID_3098548295086867" target="LattesID_6695591100082194" id="261" weight="5" />
+      <edge source="LattesID_5514279823093282" target="LattesID_6695591100082194" id="262" weight="1" />
+      <edge source="LattesID_6695591100082194" target="LattesID_5138758521691630" id="263" weight="1" />
+      <edge source="LattesID_3136544073514958" target="LattesID_9950674050703908" id="264" weight="1" />
+      <edge source="LattesID_3144173608741010" target="LattesID_4890046762900137" id="265" weight="1" />
+      <edge source="LattesID_4890046762900137" target="LattesID_6131599082783310" id="266" weight="2" />
+      <edge source="LattesID_3163271519013006" target="LattesID_7188784344595649" id="267" weight="1" />
+      <edge source="LattesID_7188784344595649" target="LattesID_7188784344595649" id="268" weight="4" />
+      <edge source="LattesID_3174947703949142" target="LattesID_4241804239085387" id="269" weight="2" />
+      <edge source="LattesID_3183050056105009" target="LattesID_5336218259257800" id="270" weight="1" />
+      <edge source="LattesID_3195999683546142" target="LattesID_3195999683546142" id="271" weight="1" />
+      <edge source="LattesID_3196052576107598" target="LattesID_5486578243421803" id="272" weight="1" />
+      <edge source="LattesID_3243927632587027" target="LattesID_4094779288495026" id="273" weight="1" />
+      <edge source="LattesID_3262681213088048" target="LattesID_9222024053983021" id="274" weight="1" />
+      <edge source="LattesID_3266168192830463" target="LattesID_3266168192830463" id="275" weight="1" />
+      <edge source="LattesID_3282736820907252" target="LattesID_9652943228276515" id="276" weight="1" />
+      <edge source="LattesID_3283103593476831" target="LattesID_3914159735707328" id="277" weight="1" />
+      <edge source="LattesID_3283103593476831" target="LattesID_864587194481223" id="278" weight="1" />
+      <edge source="LattesID_3914159735707328" target="LattesID_3914159735707328" id="279" weight="1" />
+      <edge source="LattesID_3914159735707328" target="LattesID_864587194481223" id="280" weight="1" />
+      <edge source="LattesID_3300067187001570" target="LattesID_3300067187001570" id="281" weight="1" />
+      <edge source="LattesID_3302156767030647" target="LattesID_5916642485883241" id="282" weight="1" />
+      <edge source="LattesID_3333445513208066" target="LattesID_3333445513208066" id="283" weight="7" />
+      <edge source="LattesID_3355338790654065" target="LattesID_7532050172035129" id="284" weight="1" />
+      <edge source="LattesID_3355695980209598" target="LattesID_3355695980209598" id="285" weight="1" />
+      <edge source="LattesID_335836859792444" target="LattesID_335836859792444" id="286" weight="2" />
+      <edge source="LattesID_335836859792444" target="LattesID_9216151677384336" id="287" weight="5" />
+      <edge source="LattesID_9216151677384336" target="LattesID_9216151677384336" id="288" weight="11" />
+      <edge source="LattesID_3405503472010994" target="LattesID_7241678053263242" id="289" weight="1" />
+      <edge source="LattesID_34196977785631" target="LattesID_8483223952207555" id="290" weight="1" />
+      <edge source="LattesID_3436505281743087" target="LattesID_3436505281743087" id="291" weight="4" />
+      <edge source="LattesID_3451628262694747" target="LattesID_3451628262694747" id="292" weight="1" />
+      <edge source="LattesID_3451628262694747" target="LattesID_4451540730749377" id="293" weight="2" />
+      <edge source="LattesID_3451628262694747" target="LattesID_5368680512020633" id="294" weight="1" />
+      <edge source="LattesID_4451540730749377" target="LattesID_5368680512020633" id="295" weight="1" />
+      <edge source="LattesID_346769094775155" target="LattesID_2004899053752109" id="296" weight="1" />
+      <edge source="LattesID_346769094775155" target="LattesID_9520477461031645" id="297" weight="1" />
+      <edge source="LattesID_3473227177697458" target="LattesID_5938914593792473" id="298" weight="2" />
+      <edge source="LattesID_5938914593792473" target="LattesID_5167484637971756" id="299" weight="1" />
+      <edge source="LattesID_5938914593792473" target="LattesID_5938914593792473" id="300" weight="1" />
+      <edge source="LattesID_3483667901818921" target="LattesID_3483667901818921" id="301" weight="1" />
+      <edge source="LattesID_3483667901818921" target="LattesID_4186515742605446" id="302" weight="2" />
+      <edge source="LattesID_3490535803299080" target="LattesID_3490535803299080" id="303" weight="1" />
+      <edge source="LattesID_3499616508280892" target="LattesID_9414212573217453" id="304" weight="1" />
+      <edge source="LattesID_9414212573217453" target="LattesID_378390052925504" id="305" weight="1" />
+      <edge source="LattesID_9414212573217453" target="LattesID_4984043849101331" id="306" weight="2" />
+      <edge source="LattesID_3518240071127311" target="LattesID_7674875576915670" id="307" weight="1" />
+      <edge source="LattesID_7674875576915670" target="LattesID_7674875576915670" id="308" weight="1" />
+      <edge source="LattesID_3524433143718420" target="LattesID_3524433143718420" id="309" weight="1" />
+      <edge source="LattesID_3527197809276361" target="LattesID_3527197809276361" id="310" weight="1" />
+      <edge source="LattesID_3532765293459410" target="LattesID_3532765293459410" id="311" weight="1" />
+      <edge source="LattesID_3542867700396961" target="LattesID_3542867700396961" id="312" weight="1" />
+      <edge source="LattesID_3564597309576489" target="LattesID_4935788335854516" id="313" weight="1" />
+      <edge source="LattesID_3681973868571725" target="LattesID_3681973868571725" id="314" weight="2" />
+      <edge source="LattesID_3688885609080645" target="LattesID_3688885609080645" id="315" weight="1" />
+      <edge source="LattesID_372650483087124" target="LattesID_6932312739989757" id="316" weight="1" />
+      <edge source="LattesID_3734588405818556" target="LattesID_9403364226017898" id="317" weight="2" />
+      <edge source="LattesID_3761585497791105" target="LattesID_8928890008799265" id="318" weight="1" />
+      <edge source="LattesID_8928890008799265" target="LattesID_7246557168481527" id="319" weight="1" />
+      <edge source="LattesID_3763546320226094" target="LattesID_3763546320226094" id="320" weight="1" />
+      <edge source="LattesID_378390052925504" target="LattesID_9625195382275378" id="321" weight="1" />
+      <edge source="LattesID_378798276126071" target="LattesID_6228828702565216" id="322" weight="3" />
+      <edge source="LattesID_6228828702565216" target="LattesID_6228828702565216" id="323" weight="1" />
+      <edge source="LattesID_6228828702565216" target="LattesID_8768632680429517" id="324" weight="1" />
+      <edge source="LattesID_3801760595415178" target="LattesID_3801760595415178" id="325" weight="1" />
+      <edge source="LattesID_3845987167494193" target="LattesID_7224855414322463" id="326" weight="1" />
+      <edge source="LattesID_3869793758311110" target="LattesID_3869793758311110" id="327" weight="1" />
+      <edge source="LattesID_3901377309450654" target="LattesID_3901377309450654" id="328" weight="1" />
+      <edge source="LattesID_3917286174731045" target="LattesID_3917286174731045" id="329" weight="1" />
+      <edge source="LattesID_3934915662621397" target="LattesID_3934915662621397" id="330" weight="1" />
+      <edge source="LattesID_3997386421385499" target="LattesID_6935433850568144" id="331" weight="1" />
+      <edge source="LattesID_3997386421385499" target="LattesID_9840759640842299" id="332" weight="1" />
+      <edge source="LattesID_6935433850568144" target="LattesID_9199970180870105" id="333" weight="1" />
+      <edge source="LattesID_6935433850568144" target="LattesID_9840759640842299" id="334" weight="1" />
+      <edge source="LattesID_400232298849115" target="LattesID_4643608666899616" id="335" weight="1" />
+      <edge source="LattesID_400232298849115" target="LattesID_471595469074043" id="336" weight="1" />
+      <edge source="LattesID_403935450457957" target="LattesID_7147889968100804" id="337" weight="1" />
+      <edge source="LattesID_4045818083957064" target="LattesID_4456007001373501" id="338" weight="1" />
+      <edge source="LattesID_4045818083957064" target="LattesID_7514503917256623" id="339" weight="1" />
+      <edge source="LattesID_4068095206484923" target="LattesID_6261175351521953" id="340" weight="1" />
+      <edge source="LattesID_4140908385855725" target="LattesID_6680742566331144" id="341" weight="1" />
+      <edge source="LattesID_4142478901587907" target="LattesID_4142478901587907" id="342" weight="1" />
+      <edge source="LattesID_4151544991447365" target="LattesID_4151544991447365" id="343" weight="1" />
+      <edge source="LattesID_4151544991447365" target="LattesID_6216785304671453" id="344" weight="1" />
+      <edge source="LattesID_416601437290797" target="LattesID_4721181770429919" id="345" weight="1" />
+      <edge source="LattesID_4218328980987254" target="LattesID_4218328980987254" id="346" weight="1" />
+      <edge source="LattesID_425874008159542" target="LattesID_9201712893785499" id="347" weight="1" />
+      <edge source="LattesID_4393367734853964" target="LattesID_4984043849101331" id="348" weight="1" />
+      <edge source="LattesID_4436860841275628" target="LattesID_4436860841275628" id="349" weight="3" />
+      <edge source="LattesID_4466110931833988" target="LattesID_4438914190540949" id="350" weight="1" />
+      <edge source="LattesID_4491496654253354" target="LattesID_5704918230695924" id="351" weight="1" />
+      <edge source="LattesID_4532197122235013" target="LattesID_9821938265591545" id="352" weight="1" />
+      <edge source="LattesID_4543503393775701" target="LattesID_4543503393775701" id="353" weight="2" />
+      <edge source="LattesID_4543503393775701" target="LattesID_7888755937461651" id="354" weight="1" />
+      <edge source="LattesID_7888755937461651" target="LattesID_7888755937461651" id="355" weight="1" />
+      <edge source="LattesID_455487141833418" target="LattesID_4761324267689856" id="356" weight="1" />
+      <edge source="LattesID_4567936059749011" target="LattesID_5321244029568287" id="357" weight="1" />
+      <edge source="LattesID_4568055385583393" target="LattesID_4568055385583393" id="358" weight="1" />
+      <edge source="LattesID_4577505947479643" target="LattesID_4577505947479643" id="359" weight="2" />
+      <edge source="LattesID_4584167984879284" target="LattesID_4584167984879284" id="360" weight="1" />
+      <edge source="LattesID_459162904145828" target="LattesID_2446086662055314" id="361" weight="1" />
+      <edge source="LattesID_4629575839285869" target="LattesID_4629575839285869" id="362" weight="1" />
+      <edge source="LattesID_4714240398706670" target="LattesID_4714240398706670" id="363" weight="1" />
+      <edge source="LattesID_4728106898297335" target="LattesID_9071337247377116" id="364" weight="1" />
+      <edge source="LattesID_4791589931798048" target="LattesID_8571722708574643" id="365" weight="1" />
+      <edge source="LattesID_8571722708574643" target="LattesID_620986273710878" id="366" weight="1" />
+      <edge source="LattesID_4796921913434370" target="LattesID_6382816131483581" id="367" weight="1" />
+      <edge source="LattesID_4796921913434370" target="LattesID_9129748440846907" id="368" weight="1" />
+      <edge source="LattesID_4796944485942487" target="LattesID_4796944485942487" id="369" weight="1" />
+      <edge source="LattesID_4863318065551221" target="LattesID_4863318065551221" id="370" weight="2" />
+      <edge source="LattesID_6131599082783310" target="LattesID_7580011219789716" id="371" weight="1" />
+      <edge source="LattesID_6131599082783310" target="LattesID_8807940650929492" id="372" weight="1" />
+      <edge source="LattesID_4908360202917485" target="LattesID_4908360202917485" id="373" weight="1" />
+      <edge source="LattesID_4908905422036211" target="LattesID_6424652558098121" id="374" weight="1" />
+      <edge source="LattesID_4953993121138640" target="LattesID_4953993121138640" id="375" weight="1" />
+      <edge source="LattesID_7690593698223418" target="LattesID_7690593698223418" id="376" weight="1" />
+      <edge source="LattesID_5010139685215361" target="LattesID_5010139685215361" id="377" weight="1" />
+      <edge source="LattesID_5034444360451621" target="LattesID_5034444360451621" id="378" weight="3" />
+      <edge source="LattesID_5041497500746910" target="LattesID_5353021338992861" id="379" weight="1" />
+      <edge source="LattesID_5043080196932200" target="LattesID_5043080196932200" id="380" weight="1" />
+      <edge source="LattesID_5050313480683695" target="LattesID_5050313480683695" id="381" weight="1" />
+      <edge source="LattesID_5075394906256166" target="LattesID_5075394906256166" id="382" weight="1" />
+      <edge source="LattesID_5098313138514050" target="LattesID_5098313138514050" id="383" weight="1" />
+      <edge source="LattesID_5136155977351408" target="LattesID_5136155977351408" id="384" weight="1" />
+      <edge source="LattesID_5136155977351408" target="LattesID_6710144245596859" id="385" weight="4" />
+      <edge source="LattesID_5136155977351408" target="LattesID_9431229866203038" id="386" weight="1" />
+      <edge source="LattesID_6710144245596859" target="LattesID_6710144245596859" id="387" weight="1" />
+      <edge source="LattesID_5239770862862966" target="LattesID_5239770862862966" id="388" weight="1" />
+      <edge source="LattesID_5288333107238702" target="LattesID_5288333107238702" id="389" weight="1" />
+      <edge source="LattesID_5364548256245450" target="LattesID_9797700814765523" id="390" weight="1" />
+      <edge source="LattesID_5371162236986081" target="LattesID_5371162236986081" id="391" weight="3" />
+      <edge source="LattesID_5383266787411605" target="LattesID_5383266787411605" id="392" weight="6" />
+      <edge source="LattesID_5438107871273282" target="LattesID_5438107871273282" id="393" weight="1" />
+      <edge source="LattesID_5452949507381981" target="LattesID_5452949507381981" id="394" weight="1" />
+      <edge source="LattesID_5554254760869075" target="LattesID_9173977294178020" id="395" weight="1" />
+      <edge source="LattesID_5558354805733623" target="LattesID_9089204821424223" id="396" weight="1" />
+      <edge source="LattesID_9089204821424223" target="LattesID_7884364909927473" id="397" weight="1" />
+      <edge source="LattesID_5585294405425860" target="LattesID_5585294405425860" id="398" weight="1" />
+      <edge source="LattesID_5604745373061740" target="LattesID_5604745373061740" id="399" weight="1" />
+      <edge source="LattesID_5604745373061740" target="LattesID_8915975180559275" id="400" weight="2" />
+      <edge source="LattesID_8915975180559275" target="LattesID_8915975180559275" id="401" weight="2" />
+      <edge source="LattesID_5631206025493479" target="LattesID_7040279344981888" id="402" weight="2" />
+      <edge source="LattesID_5653509413156744" target="LattesID_5653509413156744" id="403" weight="1" />
+      <edge source="LattesID_5653509413156744" target="LattesID_6946118605547297" id="404" weight="5" />
+      <edge source="LattesID_6946118605547297" target="LattesID_6946118605547297" id="405" weight="1" />
+      <edge source="LattesID_5657330710281879" target="LattesID_5657330710281879" id="406" weight="15" />
+      <edge source="LattesID_5674098794412714" target="LattesID_5674098794412714" id="407" weight="2" />
+      <edge source="LattesID_5707056206352512" target="LattesID_5707056206352512" id="408" weight="1" />
+      <edge source="LattesID_5746822816259454" target="LattesID_6824400602221355" id="409" weight="1" />
+      <edge source="LattesID_5948590274082247" target="LattesID_9578832375902806" id="410" weight="1" />
+      <edge source="LattesID_5971556358191272" target="LattesID_7902070751612416" id="411" weight="1" />
+      <edge source="LattesID_6037463340047597" target="LattesID_6037463340047597" id="412" weight="2" />
+      <edge source="LattesID_6126712875843734" target="LattesID_8778071496682261" id="413" weight="1" />
+      <edge source="LattesID_6195215666638965" target="LattesID_9195362898891079" id="414" weight="1" />
+      <edge source="LattesID_621862166341833" target="LattesID_621862166341833" id="415" weight="1" />
+      <edge source="LattesID_6236953777548570" target="LattesID_8291688787214146" id="416" weight="1" />
+      <edge source="LattesID_6282961654812088" target="LattesID_6282961654812088" id="417" weight="2" />
+      <edge source="LattesID_6286661930160341" target="LattesID_6286661930160341" id="418" weight="5" />
+      <edge source="LattesID_6444936383001612" target="LattesID_6444936383001612" id="419" weight="1" />
+      <edge source="LattesID_6453244305834445" target="LattesID_6453244305834445" id="420" weight="6" />
+      <edge source="LattesID_6580934910020175" target="LattesID_7814291436802540" id="421" weight="1" />
+      <edge source="LattesID_6587652745122507" target="LattesID_6587652745122507" id="422" weight="1" />
+      <edge source="LattesID_6607207172907857" target="LattesID_6607207172907857" id="423" weight="1" />
+      <edge source="LattesID_6613487636748832" target="LattesID_8538761803577291" id="424" weight="1" />
+      <edge source="LattesID_6614550860293610" target="LattesID_6614550860293610" id="425" weight="1" />
+      <edge source="LattesID_6625577688255022" target="LattesID_6625577688255022" id="426" weight="3" />
+      <edge source="LattesID_6625577688255022" target="LattesID_959419622353758" id="427" weight="4" />
+      <edge source="LattesID_6626334710934671" target="LattesID_6626334710934671" id="428" weight="1" />
+      <edge source="LattesID_6635523086396765" target="LattesID_6635523086396765" id="429" weight="1" />
+      <edge source="LattesID_668518124645260" target="LattesID_4786861067544484" id="430" weight="1" />
+      <edge source="LattesID_6685452619778462" target="LattesID_8590140337571249" id="431" weight="1" />
+      <edge source="LattesID_6723952614607082" target="LattesID_6723952614607082" id="432" weight="3" />
+      <edge source="LattesID_683206038422853" target="LattesID_3669079636938542" id="433" weight="1" />
+      <edge source="LattesID_683719309513445" target="LattesID_683719309513445" id="434" weight="2" />
+      <edge source="LattesID_683719309513445" target="LattesID_7770751615146997" id="435" weight="2" />
+      <edge source="LattesID_7770751615146997" target="LattesID_7770751615146997" id="436" weight="2" />
+      <edge source="LattesID_6894735942112278" target="LattesID_6894735942112278" id="437" weight="1" />
+      <edge source="LattesID_6918010504362643" target="LattesID_8306891687052522" id="438" weight="1" />
+      <edge source="LattesID_6950275463743445" target="LattesID_6950275463743445" id="439" weight="1" />
+      <edge source="LattesID_6974715253258198" target="LattesID_6974715253258198" id="440" weight="3" />
+      <edge source="LattesID_706269647912023" target="LattesID_706269647912023" id="441" weight="1" />
+      <edge source="LattesID_7080112300092250" target="LattesID_7080112300092250" id="442" weight="2" />
+      <edge source="LattesID_7081137143097605" target="LattesID_7081137143097605" id="443" weight="7" />
+      <edge source="LattesID_7105106788421440" target="LattesID_7105106788421440" id="444" weight="1" />
+      <edge source="LattesID_7151669913805328" target="LattesID_7151669913805328" id="445" weight="1" />
+      <edge source="LattesID_7151669913805328" target="LattesID_774464575739440" id="446" weight="1" />
+      <edge source="LattesID_7180951922379856" target="LattesID_7180951922379856" id="447" weight="3" />
+      <edge source="LattesID_7221866306191176" target="LattesID_7221866306191176" id="448" weight="1" />
+      <edge source="LattesID_7226228571158486" target="LattesID_9492725982095751" id="449" weight="1" />
+      <edge source="LattesID_7337140412736712" target="LattesID_8306082053010264" id="450" weight="1" />
+      <edge source="LattesID_8306082053010264" target="LattesID_8306082053010264" id="451" weight="1" />
+      <edge source="LattesID_7390573927636069" target="LattesID_7390573927636069" id="452" weight="3" />
+      <edge source="LattesID_7390573927636069" target="LattesID_8992341585329383" id="453" weight="2" />
+      <edge source="LattesID_7445263918535127" target="LattesID_7445263918535127" id="454" weight="2" />
+      <edge source="LattesID_7481868767930127" target="LattesID_9999217523842385" id="455" weight="1" />
+      <edge source="LattesID_7621153201862444" target="LattesID_7621153201862444" id="456" weight="2" />
+      <edge source="LattesID_774464575739440" target="LattesID_774464575739440" id="457" weight="6" />
+      <edge source="LattesID_7759392930119043" target="LattesID_9048531014341931" id="458" weight="1" />
+      <edge source="LattesID_7797002937282168" target="LattesID_7797002937282168" id="459" weight="3" />
+      <edge source="LattesID_7830251697546483" target="LattesID_7830251697546483" id="460" weight="3" />
+      <edge source="LattesID_7897779819494573" target="LattesID_8281601894113525" id="461" weight="1" />
+      <edge source="LattesID_7899304734293116" target="LattesID_7899304734293116" id="462" weight="1" />
+      <edge source="LattesID_7939955411255742" target="LattesID_7939955411255742" id="463" weight="1" />
+      <edge source="LattesID_799282373201889" target="LattesID_799282373201889" id="464" weight="1" />
+      <edge source="LattesID_8038860962291446" target="LattesID_8038860962291446" id="465" weight="1" />
+      <edge source="LattesID_807511237795775" target="LattesID_2491891766759477" id="466" weight="1" />
+      <edge source="LattesID_807993828734491" target="LattesID_807993828734491" id="467" weight="1" />
+      <edge source="LattesID_8119785638200345" target="LattesID_8119785638200345" id="468" weight="1" />
+      <edge source="LattesID_8181104476035846" target="LattesID_9474423287192932" id="469" weight="1" />
+      <edge source="LattesID_8385283959153698" target="LattesID_8385283959153698" id="470" weight="1" />
+      <edge source="LattesID_8392706159125796" target="LattesID_8392706159125796" id="471" weight="6" />
+      <edge source="LattesID_8429319957087376" target="LattesID_8429319957087376" id="472" weight="1" />
+      <edge source="LattesID_8496716957724133" target="LattesID_8496716957724133" id="473" weight="6" />
+      <edge source="LattesID_8502546601452651" target="LattesID_8502546601452651" id="474" weight="2" />
+      <edge source="LattesID_8505634095383289" target="LattesID_9860968235125158" id="475" weight="1" />
+      <edge source="LattesID_8539341671152883" target="LattesID_8539341671152883" id="476" weight="1" />
+      <edge source="LattesID_8568857954896648" target="LattesID_8568857954896648" id="477" weight="1" />
+      <edge source="LattesID_8568857954896648" target="LattesID_9859511150127352" id="478" weight="1" />
+      <edge source="LattesID_862583266198572" target="LattesID_2630366822189538" id="479" weight="1" />
+      <edge source="LattesID_864587194481223" target="LattesID_864587194481223" id="480" weight="16" />
+      <edge source="LattesID_8652546198431453" target="LattesID_8652546198431453" id="481" weight="1" />
+      <edge source="LattesID_8702637805691545" target="LattesID_8702637805691545" id="482" weight="1" />
+      <edge source="LattesID_8716094042714766" target="LattesID_9340343036686762" id="483" weight="1" />
+      <edge source="LattesID_8720357455345563" target="LattesID_8720357455345563" id="484" weight="2" />
+      <edge source="LattesID_8730904907286096" target="LattesID_8730904907286096" id="485" weight="1" />
+      <edge source="LattesID_8784162002608095" target="LattesID_8784162002608095" id="486" weight="1" />
+      <edge source="LattesID_8870215298283456" target="LattesID_9023124315724834" id="487" weight="2" />
+      <edge source="LattesID_895927612068566" target="LattesID_895927612068566" id="488" weight="1" />
+      <edge source="LattesID_8985375427502337" target="LattesID_9870663748100803" id="489" weight="1" />
+      <edge source="LattesID_9092587237114334" target="LattesID_9092587237114334" id="490" weight="1" />
+      <edge source="LattesID_9212317615801479" target="LattesID_9212317615801479" id="491" weight="1" />
+      <edge source="LattesID_9372598538923672" target="LattesID_9372598538923672" id="492" weight="4" />
+      <edge source="LattesID_9507382254235935" target="LattesID_9507382254235935" id="493" weight="1" />
+      <edge source="LattesID_9512518346363114" target="LattesID_9512518346363114" id="494" weight="21" />
+      <edge source="LattesID_994463905511529" target="LattesID_994463905511529" id="495" weight="2" />
+    </edges>
+  </graph>
+</gexf>
