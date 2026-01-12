@@ -23,10 +23,8 @@ All scripts run automatically for the three scopes: abrangente, restritivo, and 
 Install project dependencies:
 
 ```
-uv pip install -r requirements.txt
+uv sync
 ```
-
-_You can use pip instead of uv if you prefer._
 
 ## Data Acquisition & Preparation 
 
