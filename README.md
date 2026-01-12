@@ -13,10 +13,8 @@ All scripts run automatically for the three scopes: abrangente, restritivo, and 
 
 ## Requirements
 
-- Python 3.12.7
 - Recommended: Graphviz + pygraphviz for faster layouts (optional)
   - Ubuntu/Debian: sudo apt-get install graphviz graphviz-dev
-  - Then: uv pip install pygraphviz (or pip install pygraphviz)
 
 ## Installation (with uv)
 
